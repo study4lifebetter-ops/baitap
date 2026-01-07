@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hoop Master | AI Basketball Coach",
+  "description": "Nâng tầm kỹ năng bóng rổ của bạn với trợ lý huấn luyện AI chuyên nghiệp, hỗ trợ lập kế hoạch tập luyện và phân tích chỉ số thi đấu cá nhân hóa.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
